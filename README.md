@@ -22,4 +22,11 @@ Your users should be able to:
 - View the optimal layout for the content depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+I've just completed a front-end coding challenge from @frontendmentor! 🎉
 
+You can see my solution here: https://www.frontendmentor.io/solutions/flex-and-smooth-menu-when-clicked-y1lQvzUq5U
+Live site url: https://mr-b7r.github.io/MR-b7r.intro-section-with-dropdown/
+my account on linkedIn url: https://www.linkedin.com/in/haitham-bahr-b33b1224b/
+
+don't forget to send your feedback!
+Any suggestions on how I can improve are welcome!
